@@ -5,8 +5,8 @@
 // @description  Cau kkte
 // @author       Morvicek
 // @match        *://*/*
-// @downloadURL  https://github.com/Anarios/return-youtube-dislike/raw/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js
-// @updateURL    https://github.com/Anarios/return-youtube-dislike/raw/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js
+// @downloadURL  https://raw.githubusercontent.com/Morvicek/Morvicek/master/Hehe/trashed.js
+// @updateURL    https://raw.githubusercontent.com/Morvicek/Morvicek/master/Hehe/trashed.js
 // @grant        none
 // ==/UserScript==
 
